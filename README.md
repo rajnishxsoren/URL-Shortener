@@ -8,17 +8,17 @@ A full-stack **URL shortener** built with the **MERN stack**. Users can register
 
 ## 🖼️ Screenshots
 
-### 🏠 Home
+### 🏠 Home Page
 
-![Home Screenshot](assets/home.png)
+![Home Screenshot](FRONTEND/src/assets/Home.png)
 
-### 🔐 Login
+### 🔐 Login Page
 
-![Login Screenshot](assets/login.png)
+![Login Screenshot](FRONTEND/src/assets/login.png)
 
 ### ✨ Custom Slugs
 
-![Custom Slugs Screenshot](assets/custom-slugs.png)
+![Custom Slugs Screenshot](FRONTEND/src/assets/custom-slugs.png)
 
 ---
 
@@ -60,3 +60,4 @@ A full-stack **URL shortener** built with the **MERN stack**. Users can register
 - 📈 URL analytics dashboard
 - 📤 QR code generation for short links
 - 👥 Role-based access or admin view
+
