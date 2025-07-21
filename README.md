@@ -6,7 +6,19 @@ A full-stack **URL shortener** built with the **MERN stack**. Users can register
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Home
+
+![Home Screenshot](assets/home.png)
+
+### 🔐 Login
+
 ![Login Screenshot](assets/login.png)
+
+### ✨ Custom Slugs
+
+![Custom Slugs Screenshot](assets/custom-slugs.png)
 
 ---
 
@@ -21,14 +33,6 @@ A full-stack **URL shortener** built with the **MERN stack**. Users can register
 - 🧠 **Redux Toolkit + RTK Query** for frontend state and API handling
 - 🌍 **Client-side Routing** using TanStack Router
 - 💻 **Responsive UI** with Tailwind CSS
-
----
-
-## 🖼️ Preview
-
-### ✨ Custom Slugs
-
-![Custom Slugs Screenshot](assets/custom-slugs.png)
 
 ---
 
